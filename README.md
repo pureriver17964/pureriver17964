@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm pureriver
 
-<!--
-**pureriver17964/pureriver17964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a developer figuring things out as I go.
 
-Here are some ideas to get you started:
+### About me
+- Currently exploring software development and building small projects for fun
+- Learning by doing — mostly backend stuff and scripting
+- Still early in the journey, but enjoying the process
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+Python · JavaScript · Git · Linux · HTML/CSS
+
+### Projects
+Nothing major public yet. Working on a few side things that might show up here later.
+
+---
+
+Feel free to check back once in a while.
